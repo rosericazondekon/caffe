@@ -62,6 +62,7 @@ data/*
 models/*
 *.caffemodel
 *.caffemodel.h5
+*.caffemodel_backup
 *.solverstate
 *.solverstate.h5
 *.binaryproto
