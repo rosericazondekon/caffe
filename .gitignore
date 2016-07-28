@@ -2,6 +2,7 @@
 
 #Large files
 backwardOut.p
+*.png
 
 # Compiled Object files
 *.slo
